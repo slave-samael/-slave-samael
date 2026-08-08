@@ -34,15 +34,6 @@ No solo escribo código; diseño soluciones. Me especializo en el desarrollo de 
 | **🎫 ServiceDesk** | Plataforma de ticketing para soporte técnico. Aplicación de flujos de trabajo y seguimiento de incidencias (MVT). | `Desarrollo Activo` |
 | **🤖 IA Agent Base** | Configuración y restricción de agentes inteligentes. Definición de comportamientos y seguridad de modelos. | `Implementado` |
 
-## 📈 Mi Actividad en GitHub
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slave-samael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
----
 
 ### 📫 Conectemos
 ¿Tienes un reto técnico o un proyecto en mente? ¡Hablemos!
